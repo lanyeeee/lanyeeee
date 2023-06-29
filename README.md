@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![Top Langs](https://github-readme-stats-git-master-lanyeeee.vercel.app/api/top-langs?username=lanyeeee&langs_count=8&&hide=ShaderLab,Mathematica&layout=compact)
 <!--
 **lanyeeee/lanyeeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
