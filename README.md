@@ -2,7 +2,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=lanyeeee&langs_count=8&layout=compact&size_weight=0.5&count_weight=0.5)
 
 # 📌Pinned
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lanyeeee&repo=jmcomic-downloader)](https://github.com/lanyeeee/jmcomic-downloader)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lanyeeee&repo=jmcomic-downloader)](https://github.com/lanyeeee/jmcomic-downloader)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lanyeeee&repo=copymanga-downloader)](https://github.com/lanyeeee/copymanga-downloader)
 
 <!--
 **lanyeeee/lanyeeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
